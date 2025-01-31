@@ -67,4 +67,4 @@ To use this app as your default calling application, follow these steps:
 
 1. Clone the repository:  
    ```bash  
-   git clone <repository-url>  
+   git clone https://github.com/rohitsingh290320052/Internship-Assignment.git  
